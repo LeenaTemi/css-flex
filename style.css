@@ -1,0 +1,128 @@
+.{
+margin: 0px;
+padding: 0px;
+border: 0px;
+box-sizing: border-box;
+}
+body{
+background-color: hsl(0, 0%, 95%);
+}
+main{
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    /* allign-items: center; */
+    /* height: 100vh; */
+    flex-direction: left;
+}
+.sedan{
+    background-color:hsl(31, 77%, 52%);
+    padding: 2cm;
+    
+}
+}
+.sedan h3{
+    color: hsl(0, 0%, 95%);
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-size: bold;
+}
+}
+.sedan p{
+color: hsla(0, 0%, 100%, 0.75);
+font-weight: lighter;
+font-size: 15px;
+padding-bottom: 10px;
+}
+.sedan button{
+    color: hsl(31, 77%, 52%);
+    padding: 6px;
+    margin-top: 40%;
+    border-radius: 2rem;
+    border-color: hsl(31, 77%, 52%);
+    width: 100%;
+    height: 6vh;
+    cursor: pointer;
+    background-color: hsl(0, 0%, 95%);
+    font-size: bold;
+}
+ /* img{
+    width: 50%;
+    height: 5vh;
+}  */
+.suv{
+    background-color: hsl(184, 100%, 22%);
+    padding: 2cm;
+}
+    
+.suv h3{
+    color: hsl(0, 0%, 95%);
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-size: bold;
+}
+.suv p{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-weight: lighter;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.suv button{
+    color: hsl(184, 100%, 22%);
+    padding: 6px;
+    margin-top: 40%;
+    border-radius: 2rem;
+    border-color: hsl(184, 100%, 22%);
+    width: 100%;
+    height: 6vh;
+    cursor: pointer;
+    background-color: hsl(0, 0%, 95%);
+    font-size: bold;
+}
+.luxury{
+    background-color: hsl(179, 100%, 13%);
+    padding: 2cm;  
+}
+.luxury h3{
+    color: hsl(0, 0%, 95%);
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-size: bold;   
+}
+.luxury p{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-weight: lighter;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.luxury button{
+    color: hsl(179, 100%, 13%);
+    padding: 6px;
+    margin-top: 40%;
+    border-radius: 2rem;
+    border-color: hsl(179, 100%, 13%);
+    width: 100%;
+    height: 6vh;
+    cursor: pointer;
+    background-color: hsl(0, 0%, 95%);
+    font-size: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
