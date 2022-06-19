@@ -8,12 +8,12 @@ body{
 background-color: hsl(0, 0%, 95%);
 }
 
-@media screen and (max-width:375) {
+/* @media screen and (max-width:375) {
     main{
         display: block;
-    }
+    } */
     
-}
+
 main{
     width: 50%;
     margin: auto;
