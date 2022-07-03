@@ -13,7 +13,10 @@ background-color: hsl(0, 0%, 95%);
         display: block;
     } */
     
-
+.grid a{
+    font-size: large;
+    color: red;
+}
 main{
     width: 50%;
     margin: auto;
@@ -24,6 +27,13 @@ main{
     /* border-radius: 20%; */
     /* height: 100vh; */
     flex-direction: left;
+}
+@media (max-width: 375px){
+    main{
+        flex-direction: column;
+        justify-content: center;
+        width: auto;
+    } 
 }
 .sedan{
     background-color:hsl(31, 77%, 52%);
